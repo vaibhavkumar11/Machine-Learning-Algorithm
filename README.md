@@ -1,7 +1,7 @@
 # Machine Learning Algorithm
 
 
-This repository contains a implementation of diffetenr Machine Learning Algorithm from Scratch.
+This repository contains a implementation of different Machine Learning Algorithm from Scratch.
 
 ## Prerequisite
 
