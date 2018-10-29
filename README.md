@@ -8,6 +8,10 @@ This repository contains a implementation of different Machine Learning Algorith
  - Python 3.3 or greater.
 
 
-## Installing Jupiter
+## Installing Jupyter Notebook
     - Using [Anaconda](https://www.anaconda.com/download/#linux). 
     - Ready to use. Run the command`jupyter notebook` in your terminal.
+    
+## Installing Numpy, Pandas
+    - If anaconda is installed on your system, it comes as part of the distribution.
+    - Otherwise 'pip install numpy' & 'pip install pandas'
